@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Hi I'm Andrew Lee and this is my first GitHub repository!
